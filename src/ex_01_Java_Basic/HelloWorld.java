@@ -12,5 +12,6 @@ public class HelloWorld {
         c = a + b;
         System.out.println("C is " + c);
 int zzzz;
+int tg;
     }
 }
